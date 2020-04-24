@@ -29,7 +29,7 @@ This project was developed at the [RocketSeat Semana OmniStack](https://rocketse
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [yarn v1.13][yarn](https://yarnpkg.com/) or higher installed on your computer and the [API](https://github.com/yagoananias/projeto-ongs).
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [yarn v1.13][yarn] or higher installed on your computer and the [API](https://github.com/yagoananias/projeto-ongs).
 
 From your command line:
 
