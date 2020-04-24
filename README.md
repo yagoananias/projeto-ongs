@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GoStack MeetApp" src="https://res.cloudinary.com/yagoananias/image/upload/v1587766131/logo_p75kyl.png" />
+    <img alt="GoStack MeetApp" src="https://res.cloudinary.com/yagoananias/image/upload/v1587771927/logo-b_qqm5ut.png" />
     <br>
     Semana OmniStack da RocketSeat
 </h1>
