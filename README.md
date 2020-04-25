@@ -25,7 +25,7 @@ This project was developed at the [RocketSeat Semana OmniStack](https://rocketse
 - [styled-components](https://www.styled-components.com/)
 - [Axios](https://github.com/axios/axios)
 - [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
-- And another bunch of packages....
+- And a lot of packages....
 
 ## :information_source: How To Use
 
