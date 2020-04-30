@@ -4,11 +4,11 @@
     Semana OmniStack da RocketSeat
 </h1>
 
-<h2 align="center">
+<h4 align="center">
     <img alt="GoStack MeetApp" src="https://res.cloudinary.com/yagoananias/image/upload/v1588274737/laptop-mock_lgwwri.jpg" />
     <br>
-    Semana OmniStack da RocketSeat
-</h1>
+    Mobile & Desktop
+</h4>
 
 <h4 align="center">
   A FullStack App that conects NGO's and people who wants to help.
