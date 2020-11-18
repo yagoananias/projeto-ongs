@@ -1,7 +1,6 @@
 <h1 align="center">
     <img alt="Be the hero" src="https://res.cloudinary.com/yagoananias/image/upload/v1587771927/logo-b_qqm5ut.png" width="450"/>
     <br>
-    Semana OmniStack da RocketSeat
 </h1>
 
 <h4 align="center">
